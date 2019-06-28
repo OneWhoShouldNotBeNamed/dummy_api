@@ -1,0 +1,27 @@
+.container {
+    width: 50%;
+    margin: 0 auto;
+    font-family: monospace;
+    margin-top: 50px;
+}
+
+#list {
+    margin-top: 10px;
+}
+
+.item {
+    border: grey solid 1px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.w-100 {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.w-100 input {
+    width: 100%;
+    padding: 10px;
+    font-family: monospace;
+}
